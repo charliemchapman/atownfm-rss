@@ -5,7 +5,7 @@
     <link>http://pod.atownfm.com</link>
     <description>From the land of Arnold, Missouri where the only skyscraper we need is a water tower, comes an entertainment podcast where two bold Midwesterners record a stream of consciousness touching on everything from movies, comics, to politics. Be enlightened!  Website: atownfm.com  Twitter: @atownfm  Facebook: https://www.facebook.com/atownfm Tags: atownfm</description>
     <copyright>Copyright 2017  . All rights reserved.</copyright>
-    <lastBuildDate>Sat, 28 Jul 2018 01:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jul 2018 01:56:16 +0000</lastBuildDate>
     <language>en</language>
     <itunes:author>Charlie Chapman, Dan Litz</itunes:author>
     <itunes:block>No</itunes:block>
@@ -219,7 +219,7 @@
       <itunes:subtitle>This week Christmas comes early! Join us as we embark on a depressing journey down memory lane, see what Santa Cook is up to at ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_047_SantaCook.mp3" length="26666052" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_047_SantaCook.mp3" length="26666052" type="audio/mpeg"/>
     </item>
     <item>
       <title>A-Town at the Movies is Live!</title>
@@ -239,7 +239,7 @@
 You can listen or subscribe here atownmovies.com</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/at-movies_logo_circle_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_046.5_atownmovies-announcment.mp3" length="1802325" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_046.5_atownmovies-announcment.mp3" length="1802325" type="audio/mpeg"/>
     </item>
     <item>
       <title>46: Pranks, Brains, and Propaganda</title>
@@ -271,7 +271,7 @@ You can listen or subscribe here atownmovies.com</itunes:subtitle>
       <itunes:subtitle>This week we roll out a few high school pranks, get in way over our heads speculating on brain science and AI, and finally put ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_046_Pranks_Brains_Propaganda.mp3" length="26689038" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_046_Pranks_Brains_Propaganda.mp3" length="26689038" type="audio/mpeg"/>
     </item>
     <item>
       <title>45: Google Duplex, Movie Pass, Tolkien Corner, DC Streaming</title>
@@ -301,7 +301,7 @@ You can listen or subscribe here atownmovies.com</itunes:subtitle>
       <itunes:subtitle>This week our unconquerable hosts cover the newest changes made to Movie Pass in what is turning into a serialized universe of stories all to ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_045_GoogleDuplex.mp3" length="26679017" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_045_GoogleDuplex.mp3" length="26679017" type="audio/mpeg"/>
     </item>
     <item>
       <title>44.5: Infinity War Follow Up (A-Town Sidebar)</title>
@@ -315,7 +315,7 @@ You can listen or subscribe here atownmovies.com</itunes:subtitle>
       <itunes:subtitle>Charlie saw Avengers Infinity War again and wanted to talk some spoiler-filled follow up.</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_044_infinitywar.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_044-5_InfinityWarFollowUp.mp3" length="3441010" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_044-5_InfinityWarFollowUp.mp3" length="3441010" type="audio/mpeg"/>
     </item>
     <item>
       <title>44: Avengers: Infinity War</title>
@@ -337,7 +337,7 @@ You can listen or subscribe here atownmovies.com</itunes:subtitle>
       <itunes:subtitle>This week Charlie and Dan collect all the infinity stones to summon the ability to talk about Infinity War for an hour and a half. ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_044_infinitywar.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_044_InfinityWar.mp3" length="91427950" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_044_InfinityWar.mp3" length="91427950" type="audio/mpeg"/>
     </item>
     <item>
       <title>43: Apple Apps, MoviePass Changes, Venom Trailer</title>
@@ -373,7 +373,7 @@ You can listen or subscribe here atownmovies.com</itunes:subtitle>
       <itunes:subtitle>This week we do a lot of complaining. First off Apple can’t seem to make a podcast app, Charlie has to walk Dan off a ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_043_MoviePassChanges.mp3" length="65665210" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_043_MoviePassChanges.mp3" length="65665210" type="audio/mpeg"/>
     </item>
     <item>
       <title>42: A Quiet Place</title>
@@ -396,7 +396,7 @@ Show Notes
 A Quiet Place</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_042-quietplace_03.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_042_AQuietPlace.mp3" length="40980558" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_042_AQuietPlace.mp3" length="40980558" type="audio/mpeg"/>
     </item>
     <item>
       <title>41: Tolkien Corner, British Royalty, Chad’s Corner</title>
@@ -430,7 +430,7 @@ A Quiet Place</itunes:subtitle>
       <itunes:subtitle>This week we wonder if there’s a gas leak at Apple, discuss Tolkien’s new book news and Amazon show, ponder what British royalty does, discuss ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_041_turtle-main.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_041_Turtles.mp3" length="70834012" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_041_Turtles.mp3" length="70834012" type="audio/mpeg"/>
     </item>
     <item>
       <title>40: Ready Player One</title>
@@ -466,7 +466,7 @@ Ready Player One
 Robocop ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_40-readyplayerone.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_040_ReadyPlayerOne.mp3" length="71081797" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_040_ReadyPlayerOne.mp3" length="71081797" type="audio/mpeg"/>
     </item>
     <item>
       <title>39: Nick’s Corner</title>
@@ -495,7 +495,7 @@ Walking Dead - The Grove
 Patreon</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_039_NicksCorner.mp3" length="69447416" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_039_NicksCorner.mp3" length="69447416" type="audio/mpeg"/>
     </item>
     <item>
       <title>38: Settling the Score with Time Space and Reality</title>
@@ -527,7 +527,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this week's episode we settle the score of the great Clockstoppers Kerfuffle, discuss military funerals and symbols, go into the matrix to defeat Agent ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_038_SimulationTheory.mp3" length="70606864" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_038_SimulationTheory.mp3" length="70606864" type="audio/mpeg"/>
     </item>
     <item>
       <title>37: Señor Putin</title>
@@ -555,7 +555,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this weeks episode we wrap up the Oscars from the red carpet, address grievances against us, discuss some coffee science, and decide Russia's olympics ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_037_Senor-Putin.mp3" length="46419279" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_037_Senor-Putin.mp3" length="46419279" type="audio/mpeg"/>
     </item>
     <item>
       <title>36: The Pre-Oscar Showdown</title>
@@ -587,7 +587,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we go through our votes for what we think will win in the Oscars categories and chase down every rabbit trail along the ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_036-oscars_metal.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_036_Oscars-2018.mp3" length="65707972" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_036_Oscars-2018.mp3" length="65707972" type="audio/mpeg"/>
     </item>
     <item>
       <title>35: Black Panther: A Review</title>
@@ -631,7 +631,7 @@ Who Fears Death by Nnedi Okorafor
 The Spielberg Oner (Every Frame ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_035-black-panther.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_035_BlackPanther.mp3" length="81455409" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_035_BlackPanther.mp3" length="81455409" type="audio/mpeg"/>
     </item>
     <item>
       <title>34: Those with Glass Toilets Shouldn’t Wage 12th Century War</title>
@@ -659,7 +659,7 @@ The Spielberg Oner (Every Frame ...</itunes:subtitle>
       <itunes:subtitle>This week we give you a short episode before Oscar season kicks into full gear and discuss more on the coffee saga and then some ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_034_Mugs-FuedalWar.mp3" length="24860496" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_034_Mugs-FuedalWar.mp3" length="24860496" type="audio/mpeg"/>
     </item>
     <item>
       <title>33: 02.13.18 (Bonus Episode: Cloverfield Paradox)</title>
@@ -697,7 +697,7 @@ Godzilla: Monster Planet Trailer
 Patreon</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_033-cloverfield-paradox.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_033_cloverfield-paradox.mp3" length="28773629" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_033_cloverfield-paradox.mp3" length="28773629" type="audio/mpeg"/>
     </item>
     <item>
       <title>32: Jim Henson, Book Talk, SpaceX, and Super Bowl Trailers</title>
@@ -727,7 +727,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this weeks episode we dig up Jim Henson’s corpse for some one on one time, try to figure out what book genre it is ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_032_Books-SpaceX-Trailers.mp3" length="64801304" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_032_Books-SpaceX-Trailers.mp3" length="64801304" type="audio/mpeg"/>
     </item>
     <item>
       <title>31: Offending Europe Part 2, TV remakes, Oscars Preshow</title>
@@ -755,7 +755,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we kick things off with a bunch of tangents, one time I was going to the store and got in the line that ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_031_Remakes-OscarNoms.mp3" length="53847672" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_031_Remakes-OscarNoms.mp3" length="53847672" type="audio/mpeg"/>
     </item>
     <item>
       <title>30: Nintendo Labo, Post Office, and the Science of Plot Holes</title>
@@ -787,7 +787,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we kick things off with a little advanced grammar, discuss the state of the postal industry, move to settle issues surrounding jury duty ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_030_PostOffice-Labo-PlotHoles.mp3" length="52213470" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_030_PostOffice-Labo-PlotHoles.mp3" length="52213470" type="audio/mpeg"/>
     </item>
     <item>
       <title>29: The Cursing Episode</title>
@@ -817,7 +817,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>Good evening #%@$’s! Today’s episode we dive way the #%@ down into the seedy underbelly of discussion topics to the world of Facebook Group Netiquette ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_029_NetiquetteCursing.mp3" length="57438906" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_029_NetiquetteCursing.mp3" length="57438906" type="audio/mpeg"/>
     </item>
     <item>
       <title>28: Lists All the Way Down</title>
@@ -839,7 +839,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>As our intrepid hosts brave the new year, they go through a series of lists meant to wet your appetite for beginning 2018. Charlie complains ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_028_ListsAllTheWayDown.mp3" length="120764164" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_028_ListsAllTheWayDown.mp3" length="120764164" type="audio/mpeg"/>
     </item>
     <item>
       <title>27: Star Wars: The Last Jedi</title>
@@ -869,7 +869,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>Star Wars: The Last Jedi has released! After two years of waiting and theorizing the galaxy has finally delivered the next chapter in the ongoing ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_027-SW-TLJ_01.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_027_StarWars-TLJ.mp3" length="162057021" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_027_StarWars-TLJ.mp3" length="162057021" type="audio/mpeg"/>
     </item>
     <item>
       <title>26: Christmas Special</title>
@@ -903,7 +903,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this weeks episode we ride sugar plumb candy canes into our traditions, serve up a hearty helping other traditions, and rank our top Christmas ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_026-Christmas_1400.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_026_ChristmasSpecial.mp3" length="83539516" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_026_ChristmasSpecial.mp3" length="83539516" type="audio/mpeg"/>
     </item>
     <item>
       <title>25: Dan’s Meltdown, Alkhobar Tower, Smirk Emoji, and Stranger Things 2</title>
@@ -937,7 +937,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week's episode Dan tells a story about a meltdown he had, we review the Alkhobar Water Tower in Saudi Arabia, Charlie realizes he’s been ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_025-StrangerThings2_01.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_025_StrangerThings2.mp3" length="75918935" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_025_StrangerThings2.mp3" length="75918935" type="audio/mpeg"/>
     </item>
     <item>
       <title>24: Batman’s a Murderer, EA Ruins Battlefront, Christmas Movie Criteria</title>
@@ -971,7 +971,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this week we delve into whether Batman is and should be a murdering psychopath, how Star Wars should treat its canon material, whether EA ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_024_DieHardIsChristmas.mp3" length="95700257" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_024_DieHardIsChristmas.mp3" length="95700257" type="audio/mpeg"/>
     </item>
     <item>
       <title>23: Justice League?</title>
@@ -1005,7 +1005,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this weeks episode the A-Town Society of Friends review the newest edition to the DCEU with special guest Zack Buck! Through brightest day and ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_23_justice-league.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_023_JusticeLeague.mp3" length="105470143" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_023_JusticeLeague.mp3" length="105470143" type="audio/mpeg"/>
     </item>
     <item>
       <title>22: Thor Ragnarok</title>
@@ -1039,7 +1039,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week the halls of Valhalla are shaken to the core as we reveal our review of Thor: Ragnarok. In the first third of our ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_022-thor_1400.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_022_Thor_Ragnarok.mp3" length="81391879" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_022_Thor_Ragnarok.mp3" length="81391879" type="audio/mpeg"/>
     </item>
     <item>
       <title>21: Offending Europe, Instagram Sucks Part 2, Disney Takeover, Streaming Services, Dan’s Weird Experience</title>
@@ -1073,7 +1073,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we single handedly offend all of Europe in our follow up, discuss for the thousandth time why instagram is awful for business, Disney ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_021_offending-europe.mp3" length="77171004" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_021_offending-europe.mp3" length="77171004" type="audio/mpeg"/>
     </item>
     <item>
       <title>20: Gunpowder Plot, Bonfire Night, V for Vendetta</title>
@@ -1099,7 +1099,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This year A-Town remember remembers the 5th of November with treason and plot. We wouldn’t forget the the fifth of November, bonfire night or not. ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_020-bonfire_01_1400.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_020_bonfire.mp3" length="56804173" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_020_bonfire.mp3" length="56804173" type="audio/mpeg"/>
     </item>
     <item>
       <title>19: The Halloween Spooktacular</title>
@@ -1125,7 +1125,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we hack up some follow up, share some harrowing Halloween memories, haunt your dreams with our top five horror films, and scare the ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_019_halloween_icon_1400.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_019_halloween-spooktacular.mp3" length="80364209" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_019_halloween-spooktacular.mp3" length="80364209" type="audio/mpeg"/>
     </item>
     <item>
       <title>18: Modern Art Debate, Boston Drama, Time Travel, and Pizza Talk</title>
@@ -1155,7 +1155,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week Charlie got into some Bawston drama, we get into a heated debate about the merits of color field paintings, discuss time travel according ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_018_modern-art.mp3" length="73382651" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_018_modern-art.mp3" length="73382651" type="audio/mpeg"/>
     </item>
     <item>
       <title>17: Movie Pass, Waite Park Tragedy, Novelty, Dan’s Fall Extravaganza, Boston</title>
@@ -1181,7 +1181,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we batter the listeners up with five barrels of feedback, mourn the Great Waite Park Tragedy, discuss the concept of novelty in a ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_017_movie-pass-boston.mp3" length="112845282" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_017_movie-pass-boston.mp3" length="112845282" type="audio/mpeg"/>
     </item>
     <item>
       <title>16: Blade Runner 2049</title>
@@ -1215,7 +1215,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>In this episode, we review the new wildly successful totally not underperforming in the box office film Blade Runner 2049. In addition we mix in ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_016-BR2016_01_1400.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_016_BladeRunner2049.mp3" length="106850318" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_016_BladeRunner2049.mp3" length="106850318" type="audio/mpeg"/>
     </item>
     <item>
       <title>15: Original Bladerunner, Coffee Cups, iOS 11 AR</title>
@@ -1245,7 +1245,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week our two hosts are your one stop shop for everything coffee cups, then they take you kicking and screaming into the world of ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_015-OG-BladeRunner_1400.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_015_BladeRunner.mp3" length="80457628" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_015_BladeRunner.mp3" length="80457628" type="audio/mpeg"/>
     </item>
     <item>
       <title>14: Instagram Sucks, Parking Ticket Protest, Marketing Lab, Podcast Envy, Not as Advertised</title>
@@ -1275,7 +1275,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week our two farmhand hosts get swept into an enchanted world where magic and topics lurk around every corner. After a pack of wild ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_014_instagram-sucks.mp3" length="75578197" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_014_instagram-sucks.mp3" length="75578197" type="audio/mpeg"/>
     </item>
     <item>
       <title>13: Destiny 2, Console Wars, Reddit Follow Up, Stack Exchange, TV Schedules</title>
@@ -1311,7 +1311,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this episode our two intrepid hosts explore the universe of Bungie's newly released Destiny 2, discuss consoles and their qualities, Charlie introduces Dan to ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_013_console-wars.mp3" length="61542614" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_013_console-wars.mp3" length="61542614" type="audio/mpeg"/>
     </item>
     <item>
       <title>12: Stephen King’s IT, Childhood Trauma, Horror Movie Talk</title>
@@ -1341,7 +1341,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this episode our fearful hosts discuss horror movies, why we're afraid, whether or not our grandparents gave us lasting childhood trauma, and finally the ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_013-IT_02.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_012-IT.mp3" length="41047157" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_012-IT.mp3" length="41047157" type="audio/mpeg"/>
     </item>
     <item>
       <title>11: Water Tower, Twitter Marketing, Dark Knight Debacle, Social Media</title>
@@ -1375,7 +1375,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we jump head first off the Arnold Water Tower into the great Dark Knight debacle and wrestle social media into submission. We then ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_011_water-tower.mp3" length="90947806" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_011_water-tower.mp3" length="90947806" type="audio/mpeg"/>
     </item>
     <item>
       <title>10: Retrospective, Nick’s Corner, Eclipse Follow Up, Shirts!</title>
@@ -1401,7 +1401,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we look back on our illustrious podcasting careers, follow up on the Movie Pass and the total solar eclipse, and announce a few new ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_010_retrospective.mp3" length="59350381" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_010_retrospective.mp3" length="59350381" type="audio/mpeg"/>
     </item>
     <item>
       <title>9: New Dog, Movie Pass, Cinema Sins, Practical vs VFX</title>
@@ -1427,7 +1427,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we dive into the world of VFX, the podcast buys a new dog, movie pass is blowing up the industry, and then we ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_009-dog-moviepass.mp3" length="43437811" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_009-dog-moviepass.mp3" length="43437811" type="audio/mpeg"/>
     </item>
     <item>
       <title>8: Solar Eclipse Talk with Meteorologist Kevin C. Burns</title>
@@ -1457,7 +1457,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week our two fearless hosts take on the topic of the upcoming total solar eclipse with real life meteorologist Kevin C. Burns! We also ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_008_eclipse.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_008-eclipse-kevincburns.mp3" length="31593335" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_008-eclipse-kevincburns.mp3" length="31593335" type="audio/mpeg"/>
     </item>
     <item>
       <title>7: Let’s talk about spoilers, International fame, Emoji Movie Disaster, Valerian, and the Confederate show</title>
@@ -1487,7 +1487,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this weeks episode our two host discuss the international fame they've acquired, Dan takes a vacation and walks out of Valerian, the Great Emoji ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_007_Spoilers.mp3" length="74912210" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_007_Spoilers.mp3" length="74912210" type="audio/mpeg"/>
     </item>
     <item>
       <title>6: Dunkirk, IMAX, Digital vs Analog, VR, Hans Zimmer</title>
@@ -1513,7 +1513,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>This week we delve deep into catacombs of issues such as IMAX vs regular film, sound quality in film, and possibilities of VR films in ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_006.png"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_006-Dunkirk.mp3" length="60747236" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_006-Dunkirk.mp3" length="60747236" type="audio/mpeg"/>
     </item>
     <item>
       <title>5: War for the Planet of the Apes</title>
@@ -1543,7 +1543,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this episode, our two intrepid hosts get a little "bananas" when they review the crown of the Planet of the Apes reboot trilogies third ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_icon_eps_005.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_005-WarForApes.mp3" length="72636510" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_005-WarForApes.mp3" length="72636510" type="audio/mpeg"/>
     </item>
     <item>
       <title>4: Listener Feedback, Jazz Music, and Dan’s Tech Gripe</title>
@@ -1577,7 +1577,7 @@ Patreon</itunes:subtitle>
       <itunes:subtitle>On this weeks episode, armed with only their voices to protect them, our two host delve into the deep deep thicket of listeners feedback, the ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_004-FollowUp-Jazz-Email.mp3" length="49538564" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_004-FollowUp-Jazz-Email.mp3" length="49538564" type="audio/mpeg"/>
     </item>
     <item>
       <title>3: Spider-Man Homecoming - The Spider-Man Episode</title>
@@ -1611,7 +1611,7 @@ On this weeks episode our two hosts take on their biggest feat yet by discussing
 As ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_003_logo.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_003-SpidermanHomecoming.mp3" length="76322864" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_003-SpidermanHomecoming.mp3" length="76322864" type="audio/mpeg"/>
     </item>
     <item>
       <title>2: Baby Driver - First Impressions</title>
@@ -1641,7 +1641,7 @@ Show Notes
 Website: ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_002_logo.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_002-BabyDriver.mp3" length="34553440" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_002-BabyDriver.mp3" length="34553440" type="audio/mpeg"/>
     </item>
     <item>
       <title>1: Spider-Man Posters, How To News, Andy Serkis</title>
@@ -1667,7 +1667,7 @@ Website: ...</itunes:subtitle>
       <itunes:subtitle>On this weeks episode our two intrepid hosts, Charlie and Dan, discuss a variety of topics ranging from the ridiculous posters for the new Spider-Man film, ...</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
-      <enclosure url="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_001.mp3" length="68602486" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_001.mp3" length="68602486" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
