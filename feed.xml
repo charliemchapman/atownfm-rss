@@ -5,7 +5,7 @@
     <link>http://pod.atownfm.com</link>
     <description>From the land of Arnold, Missouri where the only skyscraper we need is a water tower, comes an entertainment podcast where two bold Midwesterners record a stream of consciousness touching on everything from movies, comics, to politics. Be enlightened!  Website: atownfm.com  Twitter: @atownfm  Facebook: https://www.facebook.com/atownfm Tags: atownfm</description>
     <copyright>Copyright 2017  . All rights reserved.</copyright>
-    <lastBuildDate>Tue, 19 Mar 2019 02:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 01:09:37 +0000</lastBuildDate>
     <language>en</language>
     <itunes:author>Charlie Chapman, Dan Litz</itunes:author>
     <itunes:block>No</itunes:block>
@@ -17,6 +17,54 @@
       <itunes:name>Charlie Chapman, Dan Litz</itunes:name>
     </itunes:owner>
     <itunes:category text="Society &amp; Culture"/>
+    <item>
+      <title>69: Bagelgate</title>
+      <pubDate>Tue, 02 Apr 2019 00:45:53 +0000</pubDate>
+      <guid isPermaLink="false">e86d57ac-608a-4de6-b661-4ebe6bda09e0</guid>
+      <link>https://atownfm.com/?68</link>
+      <description><![CDATA[<p>This week our two St Louis hosts defend against the onslaught of bagelgate, then Zach Snyder rips us out of our dreamworld and tells us to grow the eff up, and finally they discuss Apple TV and the future of streaming (again).</p>
+<p></p>
+<h3>Show Notes</h3>
+<ul>
+  <li><a href="https://www.buzzfeednews.com/article/juliareinstein/bread-sliced-bagels-panera-st-louis-missouri-outrage?%3Fbftw&utm_term=4ldqpfp%234ldqpfp">Apparently People Slice Bagels Like Bread In St. Louis And Honestly? WTF</a></li>
+  <li><a href="https://atownmovies.com">A-Town at the Movies (our movie podcast)</a></li>
+  <li><a href="https://www.gamespot.com/articles/zack-snyder-thinks-dc-fans-should-wake-the-f-up-ab/1100-6465843/">Zack Snyder Thinks DC Fans Should "Wake the F*** up" About Batman Killing</a></li>
+  <li><a href="https://www.theverge.com/2019/3/25/18281243/apple-tv-plus-app-explained-features-subscription-video-service-shows-originals-channels">Apple TV+ Explained</a></li>
+</ul>
+</br>
+<ul>
+  <li><a href="https://atownfm.com/">Website</a></li>
+  <li><a href="https://www.patreon.com/atownfm" rel="payment">Patreon</a></li>
+  <li><a href="https://twitter.com/atownfm">Twitter</a></li>
+  <li><a href="https://www.facebook.com/atownfm">Facebook</a></li>
+  <li><a href="https://www.reddit.com/r/atownfm/">Reddit</a></li>
+  <li><a href="https://www.instagram.com/atownfm/">Instagram</a></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>This week our two St Louis hosts defend against the onslaught of bagelgate, then Zach Snyder rips us out of our dreamworld and tells us to grow the eff up, and finally they discuss Apple TV and the future of streaming (again).</p>
+<p></p>
+<h3>Show Notes</h3>
+<ul>
+  <li><a href="https://www.buzzfeednews.com/article/juliareinstein/bread-sliced-bagels-panera-st-louis-missouri-outrage?%3Fbftw&utm_term=4ldqpfp%234ldqpfp">Apparently People Slice Bagels Like Bread In St. Louis And Honestly? WTF</a></li>
+  <li><a href="https://atownmovies.com">A-Town at the Movies (our movie podcast)</a></li>
+  <li><a href="https://www.gamespot.com/articles/zack-snyder-thinks-dc-fans-should-wake-the-f-up-ab/1100-6465843/">Zack Snyder Thinks DC Fans Should "Wake the F*** up" About Batman Killing</a></li>
+  <li><a href="https://www.theverge.com/2019/3/25/18281243/apple-tv-plus-app-explained-features-subscription-video-service-shows-originals-channels">Apple TV+ Explained</a></li>
+</ul>
+</br>
+<ul>
+  <li><a href="https://atownfm.com/">Website</a></li>
+  <li><a href="https://www.patreon.com/atownfm" rel="payment">Patreon</a></li>
+  <li><a href="https://twitter.com/atownfm">Twitter</a></li>
+  <li><a href="https://www.facebook.com/atownfm">Facebook</a></li>
+  <li><a href="https://www.reddit.com/r/atownfm/">Reddit</a></li>
+  <li><a href="https://www.instagram.com/atownfm/">Instagram</a></li>
+</ul>]]></content:encoded>
+      <itunes:duration>00:51:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>This week our two St Louis hosts defend against the onslaught of bagelgate, then Zach Snyder rips us out of our dreamworld and tells us to grow the eff up, and finally they discuss Apple TV and the future of streaming (again).</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/a_town/s3.us-east-2.amazonaws.com/pod.atownfm.com/audio/A-Town_069_bagelgate.mp3" length="25267047" type="audio/mpeg"/>
+    </item>
     <item>
       <title>68: Dune</title>
       <pubDate>Tue, 19 Mar 2019 02:47:32 +0000</pubDate>
